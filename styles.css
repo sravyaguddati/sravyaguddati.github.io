@@ -1,0 +1,28 @@
+body{
+
+	
+}
+
+
+
+.jumbotron{
+
+	background-image: url("craft.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	color: brown;
+
+}
+
+p{
+
+	font-size: 20px;
+}
+
+.happy{
+
+	font-size: 80px;
+	color: purple;
+	text-align: center;
+}
